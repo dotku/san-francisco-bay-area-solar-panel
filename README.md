@@ -1,4 +1,4 @@
-# Solar Panel
+# San Francisco Bay Area Solar Panel
 
 ![Solar Panel House After Installation](/solar-panel-house.jpg)
 
